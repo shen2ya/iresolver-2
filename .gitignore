@@ -1,0 +1,22 @@
+### Gradle ###
+.gradle
+!gradle/
+
+### Eclipse ###
+bin/
+tmp/
+.classpath
+.project
+.settings
+
+### IntelliJ IDEA ###
+build/
+out/
+.idea
+*.iml
+
+### Misc ###
+/data/
+/output/
+/logs/
+*.log
